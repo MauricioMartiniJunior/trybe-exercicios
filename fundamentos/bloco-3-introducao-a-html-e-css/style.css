@@ -1,0 +1,29 @@
+H1 {
+    font-family:sans-serif;
+}
+p {
+    font-weight:600;
+    font-size:3em;
+}
+body {
+    font-size:16px;
+}
+ul {
+    font-style:italic;
+    line-height:20px;
+    text-align:center;
+    text-decoration:underline;
+    padding-inline-start: 0%;
+}
+#yellow {
+    background-color: yellow;
+}
+#red {
+    background-color: red;
+}
+#brown {
+    background-color: brown;
+}
+li {
+    list-style:none;
+}
