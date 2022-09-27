@@ -204,3 +204,19 @@ let desconto = ((salarioBase / 100)* 7.5) - parcela;
 let salarioLiquido = salarioBase - desconto;
 
 console.log(salarioLiquido);
+
+const n = `"?"` ;
+
+let resul = 100;
+for (let index = 0; index <= 9; index += 1) {
+  resul -= index;
+};
+console.log(resul);
+
+n = 5;
+
+let resultad = 0;
+for (let index = 0; index <= n; index += 1) {
+    resultad += index;
+};
+console.log(resultad)
